@@ -20,5 +20,5 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-* 12 * * 1 /home/project/sqlbackup.sh > /home/project/backup.log
+* 12 * * 1 /home/mahmoud/dba/sqlbackup.sh > /home/mahmoud/backup.log
 
